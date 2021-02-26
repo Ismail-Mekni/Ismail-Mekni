@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ismail-Mekni" alt="ismailmekni" /> </p>
 
-- 🔭 I’m currently working with **Sofrecom Tunisie** as a software engineer.
+- 🔭 I’m currently working with **Sofrecom Tunisia** as a software engineer.
 
 - 🌱 Lifelong Learning
 
