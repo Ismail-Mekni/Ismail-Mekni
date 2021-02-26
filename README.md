@@ -11,15 +11,6 @@
 
 - 📫 How to reach me **ismmekni@gmail.com**
 
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40"/> 
-</p>
-
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Mekni&show_icons=true" alt="ismail-mekni" />
 </p>
